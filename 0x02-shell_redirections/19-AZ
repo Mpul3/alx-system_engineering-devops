@@ -1,2 +1,2 @@
-#!/bi/bash
-tr Ac Ze < input
+#!/bin/bash
+tr 'Ac' 'Ze' < input
