@@ -1,2 +1,2 @@
 #!/bi/bash
-tr 'Ac' 'Ze' < input
+tr Ac Ze < input
